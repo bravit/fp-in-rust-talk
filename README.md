@@ -84,3 +84,7 @@ _February 20th, 2025_
 * [Adam Warski, What is Functional Programming?](https://softwaremill.com/what-is-functional-programming/)
 * [Nikolay Yakimov, Rust is Not a Functional Language](https://serokell.io/blog/rust-is-not-a-functional-language)
 * [Rust Iterators Beyond the Basics](https://blog.jetbrains.com/rust/2024/03/12/rust-iterators-beyond-the-basics-part-i-building-blocks/)
+
+This repo: https://github.com/bravit/fp-in-rust-talk
+
+![](qr.png)
